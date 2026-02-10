@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンチャンテッド",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2026-02-10T13:31:46.423471Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Enchanted_Taylor_Swift.txt"
+    }
+  ]
+}
